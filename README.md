@@ -1,4 +1,4 @@
-# IntroToEventLogMiningMeetup
+# IntroToEventLogMiningMeetup..
 
 GitHub Repository for the 01/04/2017 Meetup titled "[Introduction to Event Log Mining with R](https://www.meetup.com/data-science-dojo/events/235913034/)".
 
